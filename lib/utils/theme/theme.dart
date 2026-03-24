@@ -13,7 +13,7 @@ class AppTheme{
   static ThemeData  lightTheme = ThemeData(
     useMaterial3: true,
     fontFamily: "Poppins",
-   textTheme: AppTextTheme.lightTextTheme,
+    textTheme: AppTextTheme.lightTextTheme,
     brightness: Brightness.light,
     primaryColor: Colors.blue,
     scaffoldBackgroundColor: Colors.white,
